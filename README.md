@@ -12,7 +12,7 @@ zz.c is the main.c for calling test cases
 
 ### `void ok(int expr, char *msg)`
 this is like assert() functions in c except it doesn't exit the main when expression is false (0).
-It is prints something like
+It prints something like
 
 `ok 1 - Example msg here`
 
