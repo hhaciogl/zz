@@ -26,5 +26,9 @@ both are equal and false (0) if not. If both
 strs are NULL return true (1) and either one is NULL
 returns false (0)
 
+### make addtest
+Will add an empty testcase.
+in main.c zz_1() function map to zz_1.c file
+
 ### todo
-add a script to automate adding testcases file.
+Add a rule to automate adding test functions to zz.c
